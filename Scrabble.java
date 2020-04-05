@@ -1,5 +1,5 @@
 import java.util.Random;
-import java.util.Scanner;//// сделать добор букв в конце хода
+import java.util.Scanner;
 
 class Player{
     char[] letters= new char[]{'0','0','0','0','0','0','0'};
